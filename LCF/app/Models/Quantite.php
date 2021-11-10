@@ -8,4 +8,12 @@ use Illuminate\Database\Eloquent\Model;
 class Quantite extends Model
 {
     use HasFactory;
+
+    public function inQuantite
+
+    {
+        return $this->hasMany('products');
+    }
+
+    protected $table = 'quantite';
 }
