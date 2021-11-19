@@ -1,5 +1,10 @@
+body,html{
+    margin:0;
+    height: 100%;
+}
 body{
     background-color: rgb(190,255,250);
+    height: 100vh;
 }
 fieldset{
     background-color: white;

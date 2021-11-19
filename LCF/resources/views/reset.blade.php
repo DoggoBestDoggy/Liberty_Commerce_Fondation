@@ -6,7 +6,7 @@
   <body>
     <fieldset>
       <legend>reset</legend>
-      <label><input type="email"></label><br>
+      <label>email:<input type="email"></label><br>
       <button>valider</button><br>
     </fieldset>
   </body>

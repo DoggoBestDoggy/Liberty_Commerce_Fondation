@@ -1,4 +1,6 @@
-@extends('layouts.login')
+<!DOCTYPE html>
+
+@extends('login')
 
 @section('main')
 @endsection
